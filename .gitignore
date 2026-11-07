@@ -1,0 +1,33 @@
+# Personal data - never commit
+data.json
+data.json.tmp
+stats.csv
+report.txt
+
+# Build output
+dist/
+build/
+__pycache__/
+*.pyc
+
+# Reader binary
+reader/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Freebuff
+.freebuff/
+
+# Environment
+.env
+.env.local
+.env.production

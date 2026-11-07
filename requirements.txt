@@ -1,0 +1,3 @@
+# Only needed for the Excel workbook (excel_report.py).
+# The tracker itself, the HUD and the text reports use the standard library only.
+openpyxl>=3.1
